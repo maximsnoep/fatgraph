@@ -1,2 +1,2 @@
-mod fixed;
-mod fluid;
+pub mod fixed;
+pub mod fluid;
